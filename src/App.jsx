@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import SlotPropsSignIn from './SignIn';
-import DashboardLayoutNavigationNested from './dashboard';
+import DashboardLayoutNavigationNested from './Dashboard';
 
 
 function App() {
